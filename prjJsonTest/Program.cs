@@ -230,7 +230,7 @@ namespace prjJsonTest
         static void Main(string[] args)
         {
             Graph g = new Graph();
-            g.JsonToGraph("..//..//..//..//road_osm_json.json");
+            g.JsonToGraph("..//..//..//..//road_osm_json.geojson");
             Console.WriteLine("distance: " + g.dijkstra(
                 new Node(177115.863063361495733, 2559149.205660121049732, 13.090000152587891)
                 , new Node(173121.566283993364777, 2555118.290666623972356, 5.119999885559082)));
