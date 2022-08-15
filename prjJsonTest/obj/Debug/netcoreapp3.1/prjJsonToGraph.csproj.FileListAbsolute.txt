@@ -1,0 +1,16 @@
+C:\Users\mark3\Desktop\repository\project\slnJsonTest\prjJsonTest\bin\Debug\netcoreapp3.1\prjJsonToGraph.exe
+C:\Users\mark3\Desktop\repository\project\slnJsonTest\prjJsonTest\bin\Debug\netcoreapp3.1\prjJsonToGraph.deps.json
+C:\Users\mark3\Desktop\repository\project\slnJsonTest\prjJsonTest\bin\Debug\netcoreapp3.1\prjJsonToGraph.runtimeconfig.json
+C:\Users\mark3\Desktop\repository\project\slnJsonTest\prjJsonTest\bin\Debug\netcoreapp3.1\prjJsonToGraph.runtimeconfig.dev.json
+C:\Users\mark3\Desktop\repository\project\slnJsonTest\prjJsonTest\bin\Debug\netcoreapp3.1\prjJsonToGraph.dll
+C:\Users\mark3\Desktop\repository\project\slnJsonTest\prjJsonTest\bin\Debug\netcoreapp3.1\prjJsonToGraph.pdb
+C:\Users\mark3\Desktop\repository\project\slnJsonTest\prjJsonTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mark3\Desktop\repository\project\slnJsonTest\prjJsonTest\obj\Debug\netcoreapp3.1\prjJsonToGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mark3\Desktop\repository\project\slnJsonTest\prjJsonTest\obj\Debug\netcoreapp3.1\prjJsonToGraph.AssemblyInfoInputs.cache
+C:\Users\mark3\Desktop\repository\project\slnJsonTest\prjJsonTest\obj\Debug\netcoreapp3.1\prjJsonToGraph.AssemblyInfo.cs
+C:\Users\mark3\Desktop\repository\project\slnJsonTest\prjJsonTest\obj\Debug\netcoreapp3.1\prjJsonToGraph.csproj.CoreCompileInputs.cache
+C:\Users\mark3\Desktop\repository\project\slnJsonTest\prjJsonTest\obj\Debug\netcoreapp3.1\prjJsonToGraph.csproj.CopyComplete
+C:\Users\mark3\Desktop\repository\project\slnJsonTest\prjJsonTest\obj\Debug\netcoreapp3.1\prjJsonToGraph.dll
+C:\Users\mark3\Desktop\repository\project\slnJsonTest\prjJsonTest\obj\Debug\netcoreapp3.1\prjJsonToGraph.pdb
+C:\Users\mark3\Desktop\repository\project\slnJsonTest\prjJsonTest\obj\Debug\netcoreapp3.1\prjJsonToGraph.genruntimeconfig.cache
+C:\Users\mark3\Desktop\repository\project\slnJsonTest\prjJsonTest\obj\Debug\netcoreapp3.1\prjJsonToGraph.csproj.AssemblyReference.cache

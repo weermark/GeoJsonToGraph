@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prjJsonToGraph", "prjJsonTest\prjJsonToGraph.csproj", "{C3CBD8DD-7668-466C-9CBC-533BE6EB5B43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3CBD8DD-7668-466C-9CBC-533BE6EB5B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3CBD8DD-7668-466C-9CBC-533BE6EB5B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3CBD8DD-7668-466C-9CBC-533BE6EB5B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3CBD8DD-7668-466C-9CBC-533BE6EB5B43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6FA2C93-6E31-4F4B-A4F2-596607F09AA3}
+	EndGlobalSection
+EndGlobal
