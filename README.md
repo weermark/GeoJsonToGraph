@@ -1,4 +1,4 @@
-# GeoJSONToGraph
+# GeoJSON To Graph
 
 A GeoJSON file contain points, and the info that which point connect to it.
 
